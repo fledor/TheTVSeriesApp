@@ -1,0 +1,4 @@
+#Wed Mar 07 02:09:06 CET 2018
+base.0=C\:\\Users\\Fedor\\StudioProjects\\TheTVSeriesApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex

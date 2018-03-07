@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Mar 07 02:19:51 CET 2018
+1.base=C\:\\Users\\Fedor\\StudioProjects\\TheTVSeriesApp\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=classes.dex
+0.set=DEX
+0.base=C\:\\Users\\Fedor\\StudioProjects\\TheTVSeriesApp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+1.path=crashlytics-build.properties
